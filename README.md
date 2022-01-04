@@ -1,1 +1,1 @@
-game.Players.LocalPlayers:kick("มึงจะกดเพื่อไร")
+game.Players.LocalPlayer:kick("KUY")
